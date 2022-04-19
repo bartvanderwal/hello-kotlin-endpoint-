@@ -16,17 +16,19 @@ docker run --name my-h2 -p 8082:8082 -d buildo/h2database
 ![Kotlin Island Google maps](kotlin-island-google-maps.png)
 ## Kotlin vs Java
 
-Kotlin is de zus van Java. Uit Rusland...!
+Alle afgevinkte items ([x]) zijn behandeld tijdens de workshop op 19-4.
 
-- No semicolons!
-- Functions are fun
-- Praat met Java
-- No new! (?)
+- [x] Kotlin is de zus van Java. Uit Rusland...!
+
+- [x] No semicolons!
+- [x] Functions are fun
+- [x] Praat met Java
+- [x] No new! (?)
 - Methodenamen met spaties erin (? test first)
 - Extension methods
-- null safety / optionals 
-- `var` vs `val` wisselen constante naar variabele met een letter
-- Type inference
+- [x] null safety / optionals 
+- [x] `var` vs `val` -> wisselen constante naar variabele met één letter
+- [x] Type inference
 - if als expressie
 - switch wordt when
 - data classes (DTO's?)
